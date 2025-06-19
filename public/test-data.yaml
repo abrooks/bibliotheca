@@ -1,0 +1,38 @@
+- title: 'Test Book: A Sample Entry for Development'
+  author: Test Author
+  year: '2023'
+  stars: '5'
+  summary: 'This is a sample book entry used for testing the filtering and display functionality'
+  whyRecommended: 'Great for testing the application features'
+  recommendedToWhom: 'Developers and testers'
+  mediaType: 'book'
+  prerequisites: 'Basic understanding of testing'
+  length: '200 pages'
+  url: 'https://example.com/test-book'
+  tags: ['testing', 'development', 'sample']
+
+- title: 'Another Test Entry: Video Content'
+  author: Video Creator
+  year: '2022'
+  stars: '4'
+  summary: 'A sample video entry to test different media types'
+  whyRecommended: 'Useful for testing video filtering'
+  recommendedToWhom: 'Video content consumers'
+  mediaType: 'video'
+  prerequisites: 'None'
+  length: '45 minutes'
+  url: 'https://example.com/test-video'
+  tags: ['video', 'multimedia', 'testing']
+
+- title: 'Test Podcast Episode'
+  author: Podcast Host
+  year: '2024'
+  stars: '3'
+  summary: 'Sample podcast entry for testing audio content display'
+  whyRecommended: 'Good for testing podcast functionality'
+  recommendedToWhom: 'Podcast listeners'
+  mediaType: 'podcast'
+  prerequisites: 'Interest in podcasts'
+  length: '30 minutes'
+  url: 'https://example.com/test-podcast'
+  tags: ['podcast', 'audio', 'testing', 'sample']
