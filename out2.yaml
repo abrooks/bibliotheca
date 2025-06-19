@@ -1,49 +1,577 @@
-- {Title: 'Accelerate: Building and Scaling High Performing Technology Organizations', Author: 'Nicole Forsgren, Jez Humble, Gene Kim', Year: '2018', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'An Elegant Puzzle: Systems of Engineering Management', Author: Will Larson, Year: '2019', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad', Author: James Clear, Year: '2018', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Beyond the Goal: Eliyahu Goldratt Speaks on the Theory of Constraints', Author: Eliyahu Goldratt, Year: '2006', Stars: '', Summary: A lecture series by Goldratt reflecting on Theory of Constraints since The Goal, Why recommended: Recording on CDs (!!) or Audible audiobook., Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Boundaries for Leaders: Results, Relationships, and Being Ridiculously in Charge', Author: Henry Cloud, Year: '2013', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Bursts: The Hidden Pattern Behind Everything We Do', Author: Albert-László Barabási, Year: '2010', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Capitalism without Capital: The Rise of the Intangible Economy', Author: 'Jonathan Haskel, Stian Westlake', Year: '2018', Stars: '', Summary: Explores where value is created and preserved in software and data driven markets and companies., Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Domain Driven Design: Tackling Complexity in the Heart of Software', Author: Eric Evans, Year: '2003', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Emergent Strategy: Shaping Change, Changing Worlds', Author: Adrienne Maree Brown, Year: '2017', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Good Strategy / Bad Strategy: The Difference and Why It Matters', Author: Richard Rumelt, Year: '2011', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Governing the Commons: The Evolution of Institutions for Collective Action', Author: Elinor Ostrom, Year: '1990', Stars: '', Summary: 'Explores how common-pool resources (resources that are rival and subtractable, such as irrigation systems or grazing lands) can be successfully managed by the people who use them, rather than being controlled by the state or private interests. Ostrom argues that such resources can be effectively managed through the creation of rules that are developed and enforced by the users themselves, avoiding a Tragedy of the Commons.', Why recommended: 'This applies not only to concrete resources like natural resources but also to abstract resources within a company: shared architecture, naming/nomenclature, common schemas, scheduling, prioritization, or the lack of any of these. The rules Ostrom present a way to effectively manage and protect these resources without falling into the perpetual struggle between top-down vs bottom-up.', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Grit: The Power of Passion and Perseverance', Author: Angela Duckworth, Year: '2016', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'It''s Not Luck: Marketing, Production, and the Theory of Constraints', Author: Eliyahu Goldratt, Year: '1994', Stars: '', Summary: The first description of the Theory of Constraints Thinking Process (later to be The Logical Thinking Process / ToC LTP), Why recommended: 'A follow-on fictional book narratively picking up where The Goal left off. This book shows the Thinking Process / Logical Thinking Process in its earliest stages, primarily focused on Evaporating Clouds (later called Conflict Resolution Diagrams) and Current Reality Trees (later called Problem trees).', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Managing Leadership Anxiety: Yours and Theirs', Author: Steve Cuss, Year: '2019', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs', Author: John Doerr, Year: '2018', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Messy: The Power of Disorder to Transform Our Lives', Author: Tim Harford, Year: '2016', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Misbehaving: The Making of Behavioral Economics', Author: Richard Thaler, Year: '2015', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Nudge: The Final Edition', Author: 'Richard Thaler, Cass Sunstein', Year: '2021', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Outcomes over Output: Why Customer Behavior is the Key Metric for Business Success', Author: Joshua Seiden, Year: '2019', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: Peopleware 3rd Ed., Author: DeMarco & Lister, Year: '2013', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Platform Revolution: How Networked Markets Are Transforming the Economy', Author: 'Geoffrey G. Parker, Marshall W. Van Alstyne, Sangeet Paul Choudary', Year: '2016', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework', Author: Mik Kersten, Year: '2018', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Scaling Teams: Strategies for Building Successful Teams and Organizations', Author: Grosse & Loftness, Year: '2017', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Simply Complexity: A Clear Guide to Complexity Theory', Author: Neil F. Johnson, Year: '2009', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Skin in the Game: Hidden Asymmetries in Daily Life', Author: Nassim Nicholas Taleb, Year: '2018', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Staff Engineer: Leadership Beyond the Management Track', Author: Will Larson, Year: '2021', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Standing on Bits: Agile Software Engineering Management at Scale with the Theory of Constraints', Author: Steve Tendon, Year: '2022', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Systems Thinking for Social Change: A Practical Guide to Solving Complex Problems, Avoiding Unintended Consequences, and Achieving Lasting Results', Author: David Stroh, Year: '2015', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Team of Teams: New Rules of Engagement for a Complex World', Author: Stanley McChrystal, Year: '2015', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Team Topologies: Organizing Business and Technology Teams for Fast Flow', Author: 'Matthew Skelton, Manuel Pais', Year: '2019', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'The Art of Systems Thinking: Essential Skills for Creativity and Problem Solving', Author: Joseph O'Connor, Year: '1997', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'The Book of Why:  The New Science of Cause and Effect', Author: Judea Pearl, Year: '2018', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'The Fifth Discipline: The Art and Practice of the Learning Organization', Author: Peter Senge, Year: '1990', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'The Goal: A Process for Ongoing Improvement', Author: Eliyahu Goldratt, Year: '1984', Stars: '', Summary: The original description of the Theory of Constraints, Why recommended: 'A fictional book that Socratically describes the Theory of Constraints in narrative form. Excellently shares the fundamentals in a way that subsequent books have not captured. Not a practitioners book but lays the ground work. Gene Kim''s The Phoenix Project was based on this book in style and the Theory of Constraints, generally.', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'The Infinite Game: How Great Businesses Achieve Long-lasting Success', Author: Simon Sinek, Year: '2019', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'The Innovator''s Dilemma: When New Technologies Cause Great Firms to Fail (Management of Innovation and Change)', Author: Clayton M. Christensen, Year: '1997', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: The Logical Thinking Process - An Executive Summary, Author: H. William Dettmer, Year: '2018', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'The Logical Thinking Process: A Systems Approach to Complex Problem Solving', Author: H. William Dettmer, Year: '2007', Stars: '', Summary: 'An up-to-date, approachable and practical guide to the ToC LTP', Why recommended: 'Dettmer''s collection and refinement of the Theory of Constraints Thinking Process. These are a set of systems thinking tools that allow for diagnosis, strategy and planning within a complex system such as an organization, a project or even an individual. ToC LTP tools are even applied to psychology.', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'The Minto Pyramid Principle: Logic in Writing, Thinking and Problem Solving', Author: Barbara Minto, Year: '2007', Stars: '', Summary: 'How to structure your thinking, writing and problems solving logically.', Why recommended: 'This version ("The Minto Pyramid Principle") is more expensive and harder to get than her earlier book "The Pyramid Principle" which does not cover problem solving. I recommend this later book but if you''re not interested in spending as much, you''ll get much of the value out of her earlier book.', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'The Mythical Man Month: Essays on Software Engineering', Author: Fred Brooks, Year: '1975', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win', Author: 'Gene Kim, Kevin Behr, George Spafford', Year: '2013', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'The Power of Habit: Why We Do What We Do in Life and Business', Author: Charles Duhigg, Year: '2014', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'The Pyramid Principle: Logic in Writing 3rd ed.', Author: Barbara Minto, Year: '2009', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'The Three Rules: How Exceptional Companies Think', Author: 'Mumtaz Ahmed, Michael E. Raynor', Year: '2013', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'The Unicorn Project: A Novel About Developers, Digital Disruption, and Thriving in the Age of Data', Author: Gene Kim, Year: '2019', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Thinking for a Change: Putting the ToC Thinking Process to Use', Author: Lisa J. Scheinkopf, Year: '1999', Stars: '', Summary: A practical guide to Theory of Constraints (ToC)., Why recommended: It's a dry read but considered one of the three foundational books of ToC and is more practical than Goldratt's The Goal (the original description of ToC). I may remove this if H. William Dettmer's book The Logical Thinking Process (which is the third of these books) is better. (I haven't read it yet.), Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Thinking in Systems: A Primer', Author: Donella Meadows, Year: '2008', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Turn the Ship Around!: A True Story of Turning Followers into Leaders', Author: L. David Marquet, Year: '2015', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
-- {Title: 'Working Backwards: Insights, Stories, and Secrets from Inside Amazon', Author: 'Colin Bryar, Bill Carr', Year: '2021', Stars: '', Summary: '', Why recommended: '', Recommended to whom: '', Order of Recommendation: ''}
+- title: 'Accelerate: Building and Scaling High Performing Technology Organizations'
+  author: Nicole Forsgren, Jez Humble, Gene Kim
+  year: '2018'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'An Elegant Puzzle: Systems of Engineering Management'
+  author: Will Larson
+  year: '2019'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad'
+  author: James Clear
+  year: '2018'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Beyond the Goal: Eliyahu Goldratt Speaks on the Theory of Constraints'
+  author: Eliyahu Goldratt
+  year: '2006'
+  stars: ''
+  summary: A lecture series by Goldratt reflecting on Theory of Constraints since The
+    Goal
+  whyRecommended: Recording on CDs (!!) or Audible audiobook.
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Boundaries for Leaders: Results, Relationships, and Being Ridiculously in
+    Charge'
+  author: Henry Cloud
+  year: '2013'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Bursts: The Hidden Pattern Behind Everything We Do'
+  author: Albert-László Barabási
+  year: '2010'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Capitalism without Capital: The Rise of the Intangible Economy'
+  author: Jonathan Haskel, Stian Westlake
+  year: '2018'
+  stars: ''
+  summary: Explores where value is created and preserved in software and data driven
+    markets and companies.
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Domain Driven Design: Tackling Complexity in the Heart of Software'
+  author: Eric Evans
+  year: '2003'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Emergent Strategy: Shaping Change, Changing Worlds'
+  author: Adrienne Maree Brown
+  year: '2017'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Good Strategy / Bad Strategy: The Difference and Why It Matters'
+  author: Richard Rumelt
+  year: '2011'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Governing the Commons: The Evolution of Institutions for Collective Action'
+  author: Elinor Ostrom
+  year: '1990'
+  stars: ''
+  summary: Explores how common-pool resources (resources that are rival and subtractable,
+    such as irrigation systems or grazing lands) can be successfully managed by the
+    people who use them, rather than being controlled by the state or private interests.
+    Ostrom argues that such resources can be effectively managed through the creation
+    of rules that are developed and enforced by the users themselves, avoiding a Tragedy
+    of the Commons.
+  whyRecommended: 'This applies not only to concrete resources like natural resources
+    but also to abstract resources within a company: shared architecture, naming/nomenclature,
+    common schemas, scheduling, prioritization, or the lack of any of these. The rules
+    Ostrom present a way to effectively manage and protect these resources without
+    falling into the perpetual struggle between top-down vs bottom-up.'
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Grit: The Power of Passion and Perseverance'
+  author: Angela Duckworth
+  year: '2016'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'It''s Not Luck: Marketing, Production, and the Theory of Constraints'
+  author: Eliyahu Goldratt
+  year: '1994'
+  stars: ''
+  summary: The first description of the Theory of Constraints Thinking Process (later
+    to be The Logical Thinking Process / ToC LTP)
+  whyRecommended: A follow-on fictional book narratively picking up where The Goal
+    left off. This book shows the Thinking Process / Logical Thinking Process in its
+    earliest stages, primarily focused on Evaporating Clouds (later called Conflict
+    Resolution Diagrams) and Current Reality Trees (later called Problem trees).
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Managing Leadership Anxiety: Yours and Theirs'
+  author: Steve Cuss
+  year: '2019'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Measure What Matters: How Google, Bono, and the Gates Foundation Rock the
+    World with OKRs'
+  author: John Doerr
+  year: '2018'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Messy: The Power of Disorder to Transform Our Lives'
+  author: Tim Harford
+  year: '2016'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Misbehaving: The Making of Behavioral Economics'
+  author: Richard Thaler
+  year: '2015'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: Nudge: The Final Edition
+  author: Richard Thaler, Cass Sunstein
+  year: '2021'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Outcomes over Output: Why Customer Behavior is the Key Metric for Business
+    Success'
+  author: Joshua Seiden
+  year: '2019'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: Peopleware 3rd Ed.
+  author: DeMarco & Lister
+  year: '2013'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Platform Revolution: How Networked Markets Are Transforming the Economy'
+  author: Geoffrey G. Parker, Marshall W. Van Alstyne, Sangeet Paul Choudary
+  year: '2016'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Project to Product: How to Survive and Thrive in the Age of Digital Disruption
+    with the Flow Framework'
+  author: Mik Kersten
+  year: '2018'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Scaling Teams: Strategies for Building Successful Teams and Organizations'
+  author: Grosse & Loftness
+  year: '2017'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Simply Complexity: A Clear Guide to Complexity Theory'
+  author: Neil F. Johnson
+  year: '2009'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Skin in the Game: Hidden Asymmetries in Daily Life'
+  author: Nassim Nicholas Taleb
+  year: '2018'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: Staff Engineer: Leadership Beyond the Management Track
+  author: Will Larson
+  year: '2021'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Standing on Bits: Agile Software Engineering Management at Scale with the
+    Theory of Constraints'
+  author: Steve Tendon
+  year: '2022'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Systems Thinking for Social Change: A Practical Guide to Solving Complex
+    Problems, Avoiding Unintended Consequences, and Achieving Lasting Results'
+  author: David Stroh
+  year: '2015'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Team of Teams: New Rules of Engagement for a Complex World'
+  author: Stanley McChrystal
+  year: '2015'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Team Topologies: Organizing Business and Technology Teams for Fast Flow'
+  author: Matthew Skelton, Manuel Pais
+  year: '2019'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'The Art of Systems Thinking: Essential Skills for Creativity and Problem
+    Solving'
+  author: Joseph O'Connor
+  year: '1997'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'The Book of Why:  The New Science of Cause and Effect'
+  author: Judea Pearl
+  year: '2018'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'The Fifth Discipline: The Art and Practice of the Learning Organization'
+  author: Peter Senge
+  year: '1990'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'The Goal: A Process for Ongoing Improvement'
+  author: Eliyahu Goldratt
+  year: '1984'
+  stars: ''
+  summary: The original description of the Theory of Constraints
+  whyRecommended: A fictional book that Socratically describes the Theory of Constraints
+    in narrative form. Excellently shares the fundamentals in a way that subsequent
+    books have not captured. Not a practitioners book but lays the ground work. Gene
+    Kim's The Phoenix Project was based on this book in style and the Theory of Constraints,
+    generally.
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'The Infinite Game: How Great Businesses Achieve Long-lasting Success'
+  author: Simon Sinek
+  year: '2019'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'The Innovator''s Dilemma: When New Technologies Cause Great Firms to Fail
+    (Management of Innovation and Change)'
+  author: Clayton M. Christensen
+  year: '1997'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: The Logical Thinking Process - An Executive Summary
+  author: H. William Dettmer
+  year: '2018'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'The Logical Thinking Process: A Systems Approach to Complex Problem Solving'
+  author: H. William Dettmer
+  year: '2007'
+  stars: ''
+  summary: An up-to-date, approachable and practical guide to the ToC LTP
+  whyRecommended: Dettmer's collection and refinement of the Theory of Constraints
+    Thinking Process. These are a set of systems thinking tools that allow for diagnosis,
+    strategy and planning within a complex system such as an organization, a project
+    or even an individual. ToC LTP tools are even applied to psychology.
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'The Minto Pyramid Principle: Logic in Writing, Thinking and Problem Solving'
+  author: Barbara Minto
+  year: '2007'
+  stars: ''
+  summary: How to structure your thinking, writing and problems solving logically.
+  whyRecommended: This version ("The Minto Pyramid Principle") is more expensive and
+    harder to get than her earlier book "The Pyramid Principle" which does not cover
+    problem solving. I recommend this later book but if you're not interested in spending
+    as much, you'll get much of the value out of her earlier book.
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'The Mythical Man Month: Essays on Software Engineering'
+  author: Fred Brooks
+  year: '1975'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business
+    Win'
+  author: Gene Kim, Kevin Behr, George Spafford
+  year: '2013'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'The Power of Habit: Why We Do What We Do in Life and Business'
+  author: Charles Duhigg
+  year: '2014'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'The Pyramid Principle: Logic in Writing 3rd ed.'
+  author: Barbara Minto
+  year: '2009'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'The Three Rules: How Exceptional Companies Think'
+  author: Mumtaz Ahmed, Michael E. Raynor
+  year: '2013'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'The Unicorn Project: A Novel About Developers, Digital Disruption, and Thriving
+    in the Age of Data'
+  author: Gene Kim
+  year: '2019'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Thinking for a Change: Putting the ToC Thinking Process to Use'
+  author: Lisa J. Scheinkopf
+  year: '1999'
+  stars: ''
+  summary: A practical guide to Theory of Constraints (ToC).
+  whyRecommended: It's a dry read but considered one of the three foundational books
+    of ToC and is more practical than Goldratt's The Goal (the original description
+    of ToC). I may remove this if H. William Dettmer's book The Logical Thinking Process
+    (which is the third of these books) is better. (I haven't read it yet.)
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Thinking in Systems: A Primer'
+  author: Donella Meadows
+  year: '2008'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Turn the Ship Around!: A True Story of Turning Followers into Leaders'
+  author: L. David Marquet
+  year: '2015'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
+- title: 'Working Backwards: Insights, Stories, and Secrets from Inside Amazon'
+  author: Colin Bryar, Bill Carr
+  year: '2021'
+  stars: ''
+  summary: ''
+  whyRecommended: ''
+  recommendedToWhom: ''
+  mediaType: ''
+  prerequisites: ''
+  length: ''
+  url: ''
